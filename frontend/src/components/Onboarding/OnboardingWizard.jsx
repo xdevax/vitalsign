@@ -91,7 +91,7 @@ export default function OnboardingWizard({ onComplete }) {
 
       {currentStep === "Welcome" && (
         <section className="form-section">
-          <h1>Welcome to PS196</h1>
+          <h1>Welcome to VitalSign</h1>
           <p>
             Let&apos;s set up your baseline health profile. We&apos;ll ask a few questions and let
             you upload any recent lab reports. Everything is stored locally on this device.

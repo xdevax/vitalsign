@@ -8,10 +8,11 @@ import "./roleSelect.css";
 export default function RoleSelect({ onSelect }) {
   return (
     <div className="role-select">
-      <h1>Welcome to PS196</h1>
+      <h1>Welcome to VitalSign</h1>
       <p className="subtitle">
-        Choose how you&apos;ll use this device. This isn&apos;t a login - it just changes what you
-        see, and you can switch it at any time.
+        Smart early disease detection &amp; risk intelligence. Choose how you&apos;ll use this
+        device - it isn&apos;t a login, it just changes what you see, and you can switch at any
+        time.
       </p>
       <div className="role-select-options">
         <button
